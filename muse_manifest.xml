@@ -1,0 +1,613 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zero.com" resolutions="1x" timestamp="1601986238891">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="326123350" ref="educational-program:our-program:youth-development-program:index:donate:program:contact:mission---vission:about-us:our-approach:gallery:faq:our-team"/>
+    <file name="nomq_preview_master_a-master.css" crc="4076102759" ref="educational-program:our-program:youth-development-program:index:donate:program:contact:mission---vission:about-us:our-approach:gallery:faq:our-team"/>
+    <file name="educational-program.css" crc="4273203239" ref="educational-program"/>
+    <file name="nomq_educational-program.css" crc="45245802" ref="educational-program"/>
+    <file name="our-program.css" crc="4057245375" ref="our-program"/>
+    <file name="nomq_our-program.css" crc="3795532074" ref="our-program"/>
+    <file name="youth-development-program.css" crc="231427167" ref="youth-development-program"/>
+    <file name="nomq_youth-development-program.css" crc="3935736373" ref="youth-development-program"/>
+    <file name="index.css" crc="259162020" ref="index"/>
+    <file name="nomq_index.css" crc="4294521501" ref="index"/>
+    <file name="donate.css" crc="387801255" ref="donate"/>
+    <file name="nomq_donate.css" crc="533431711" ref="donate"/>
+    <file name="program.css" crc="4128616119" ref="program"/>
+    <file name="nomq_program.css" crc="487702638" ref="program"/>
+    <file name="contact.css" crc="681249" ref="contact"/>
+    <file name="nomq_contact.css" crc="3806481870" ref="contact"/>
+    <file name="mission---vission.css" crc="516893064" ref="mission---vission"/>
+    <file name="nomq_mission---vission.css" crc="3820704390" ref="mission---vission"/>
+    <file name="about-us.css" crc="4055944371" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="31233746" ref="about-us"/>
+    <file name="our-approach.css" crc="266076200" ref="our-approach"/>
+    <file name="nomq_our-approach.css" crc="3958371351" ref="our-approach"/>
+    <file name="gallery.css" crc="3784675969" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="82656418" ref="gallery"/>
+    <file name="faq.css" crc="518196230" ref="faq"/>
+    <file name="nomq_faq.css" crc="79865040" ref="faq"/>
+    <file name="our-team.css" crc="105166570" ref="our-team"/>
+    <file name="nomq_our-team.css" crc="385208232" ref="our-team"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="museutils.js" crc="3939489907" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="whatinput.js" crc="86476730" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="webpro.js" crc="3856315280" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="require.js" crc="4177726516" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="received_576649863251997.jpg" crc="511607105" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1002-9.png" crc="243742985" ref="index"/>
+    <file name="104492532_3497646856966612_7477659930926842185_n.jpg" crc="56764412" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-relieve-gold-facebook-png-clipart-thumbnail.jpg" crc="3808921983" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1002-92.png" crc="85191201" ref="index"/>
+    <file name="received_576649863251997-u965-fr.jpg" crc="3898381362" ref="index"/>
+    <file name="u1002-93.png" crc="187075846" ref="index"/>
+    <file name="received_576649863251997-u965-fr2.jpg" crc="210192305" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program"/>
+    <file name="arrowmenuright.png" crc="41086373" ref="index:program:about-us:gallery:contact:educational-program:youth-development-program:donate:mission---vission:our-approach:faq:our-team:our-program">
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="youth-development-program" alt=""/>
+      <caption webpage="youth-development-program" alt=""/>
+      <caption webpage="youth-development-program" alt=""/>
+      <caption webpage="program" alt=""/>
+      <caption webpage="program" alt=""/>
+      <caption webpage="program" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="mission---vission" alt=""/>
+      <caption webpage="mission---vission" alt=""/>
+      <caption webpage="mission---vission" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="educational-program" alt=""/>
+      <caption webpage="educational-program" alt=""/>
+      <caption webpage="educational-program" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-program" alt=""/>
+      <caption webpage="our-program" alt=""/>
+      <caption webpage="our-program" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u1002-94.png" crc="216859122" ref="index"/>
+    <file name="u16941-4.png" crc="3808007198" ref="program"/>
+    <file name="istock-1154631974.jpg" crc="3854599474" ref="program">
+      <caption webpage="program" alt=""/>
+      <caption webpage="program" alt=""/>
+    </file>
+    <file name="download.jpg" crc="371996888" ref="program">
+      <caption webpage="program" alt=""/>
+    </file>
+    <file name="u16950-4.png" crc="3959074977" ref="program"/>
+    <file name="u16975-4.png" crc="3800484119" ref="program"/>
+    <file name="kisspng-computer-icons-experience-stagiair-experience-5b20efb23108d83685866915288851702009.jpg" crc="3926735064" ref="program">
+      <caption webpage="program" alt=""/>
+    </file>
+    <file name="diploma-certificate-award-icon-vector-18409285.jpg" crc="189398344" ref="program">
+      <caption webpage="program" alt=""/>
+      <caption webpage="program" alt=""/>
+    </file>
+    <file name="u17005-4.png" crc="333090917" ref="program"/>
+    <file name="u17008-4.png" crc="28599444" ref="program"/>
+    <file name="u17127-5.png" crc="175105135" ref="program"/>
+    <file name="u16941-42.png" crc="406816844" ref="program"/>
+    <file name="u16950-42.png" crc="286039239" ref="program"/>
+    <file name="u16975-42.png" crc="3939639302" ref="program"/>
+    <file name="u17005-42.png" crc="61427721" ref="program"/>
+    <file name="u17008-42.png" crc="3951945469" ref="program"/>
+    <file name="u17127-52.png" crc="3833138243" ref="program"/>
+    <file name="u16941-43.png" crc="3887158472" ref="program"/>
+    <file name="istock-1154631974-u16932-fr.jpg" crc="9993334" ref="program"/>
+    <file name="u16950-43.png" crc="530315741" ref="program"/>
+    <file name="u16975-43.png" crc="3880163711" ref="program"/>
+    <file name="diploma-certificate-award-icon-vector-18409285-u17007-fr.jpg" crc="4007420906" ref="program"/>
+    <file name="u17005-43.png" crc="408043532" ref="program"/>
+    <file name="u17008-43.png" crc="4027716722" ref="program"/>
+    <file name="u17127-53.png" crc="3843926459" ref="program"/>
+    <file name="istock-1154631974-u16932-fr2.jpg" crc="3865922940" ref="program"/>
+    <file name="u16941-44.png" crc="4202888746" ref="program"/>
+    <file name="u16950-44.png" crc="3961279423" ref="program"/>
+    <file name="u16975-44.png" crc="3858385858" ref="program"/>
+    <file name="u17005-44.png" crc="3883188279" ref="program"/>
+    <file name="u17008-44.png" crc="389852689" ref="program"/>
+    <file name="u17127-54.png" crc="3821185593" ref="program"/>
+    <file name="unnamed.jpg" crc="97326230" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="received_2590645151178984-u34678-fr.jpg" crc="3983065" ref="about-us"/>
+    <file name="u34692-9.png" crc="3850248438" ref="about-us"/>
+    <file name="received_2590645151178984-u34678-fr2.jpg" crc="3939942477" ref="about-us"/>
+    <file name="u34692-92.png" crc="3958400902" ref="about-us"/>
+    <file name="received_2590645151178984-u34678-fr3.jpg" crc="65121408" ref="about-us"/>
+    <file name="u34692-93.png" crc="4217405678" ref="about-us"/>
+    <file name="u34692-94.png" crc="4006277244" ref="about-us"/>
+    <file name="u10050-4.png" crc="409868581" ref="gallery"/>
+    <file name="hand-holding-trophy-concept-for-winning-in-sports-business-png_133099.jpg" crc="4151989460" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="painting-artist-drawing-png-favpng-ueqyqxivnzrdnmjuxd05jaqp7.jpg" crc="4194156174" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u10050-42.png" crc="4269774376" ref="gallery"/>
+    <file name="u10050-43.png" crc="341346213" ref="gallery"/>
+    <file name="painting-artist-drawing-png-favpng-ueqyqxivnzrdnmjuxd05jaqp7-u10062-fr.jpg" crc="401736062" ref="gallery"/>
+    <file name="u10050-44.png" crc="4146669750" ref="gallery"/>
+    <file name="usb-cable-connector-cord-smiling-icon-flat-vector-cable-port-sign-white-background-connect-me-message-usb-cable-110561223.jpg" crc="185362528" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="telephone-mobile-phones-computer-icons-logo-telephone.jpg" crc="3808851521" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="kisspng-email-logo-bounce-address-computer-icons-message-online-application-5b4f433eed6ac15937710415319212149725.jpg" crc="290036363" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="download2.jpg" crc="116305746" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="usb-cable-connector-cord-smiling-icon-flat-vector-cable-port-sign-white-background-connect-me-message-usb-cable-110561223-u3889-fr.jpg" crc="3968717652" ref="contact"/>
+    <file name="usb-cable-connector-cord-smiling-icon-flat-vector-cable-port-sign-white-background-connect-me-message-usb-cable-110561223-u3889-fr2.jpg" crc="4184521715" ref="contact"/>
+    <file name="telephone-mobile-phones-computer-icons-logo-telephone-u3955-fr.jpg" crc="3912613322" ref="contact"/>
+    <file name="kisspng-email-logo-bounce-address-computer-icons-message-online-application-5b4f433eed6ac15937710415319212149725-u3964-fr.jpg" crc="191284402" ref="contact"/>
+    <file name="download-u4003-fr.jpg" crc="3984918171" ref="contact"/>
+    <file name="usb-cable-connector-cord-smiling-icon-flat-vector-cable-port-sign-white-background-connect-me-message-usb-cable-110561223-u3889-fr3.jpg" crc="160221934" ref="contact"/>
+    <file name="u3041-5.png" crc="516514045" ref="educational-program"/>
+    <file name="download (2).jpg" crc="3819315351" ref="educational-program">
+      <caption webpage="educational-program" alt=""/>
+    </file>
+    <file name="u3078-14.png" crc="3831774453" ref="educational-program"/>
+    <file name="download (1).jpg" crc="294798453" ref="educational-program">
+      <caption webpage="educational-program" alt=""/>
+    </file>
+    <file name="u3116-13.png" crc="4228020584" ref="educational-program"/>
+    <file name="the_logo_of_rajshahi_collegiate_school.jpg" crc="301832823" ref="educational-program">
+      <caption webpage="educational-program" alt=""/>
+    </file>
+    <file name="u3147-13.png" crc="459121319" ref="educational-program"/>
+    <file name="u3171-4.png" crc="33559087" ref="educational-program"/>
+    <file name="u3183-4.png" crc="4099363825" ref="educational-program"/>
+    <file name="u3041-52.png" crc="3863076835" ref="educational-program"/>
+    <file name="u3078-142.png" crc="4162973656" ref="educational-program"/>
+    <file name="u3116-132.png" crc="357966458" ref="educational-program"/>
+    <file name="u3147-132.png" crc="3922699041" ref="educational-program"/>
+    <file name="u3171-42.png" crc="3796274005" ref="educational-program"/>
+    <file name="u3183-42.png" crc="420057710" ref="educational-program"/>
+    <file name="u3041-53.png" crc="901427" ref="educational-program"/>
+    <file name="u3078-143.png" crc="233715605" ref="educational-program"/>
+    <file name="u3116-133.png" crc="4024850567" ref="educational-program"/>
+    <file name="u3147-133.png" crc="189981017" ref="educational-program"/>
+    <file name="u3171-43.png" crc="452952411" ref="educational-program"/>
+    <file name="u3183-43.png" crc="4126281310" ref="educational-program"/>
+    <file name="u3041-54.png" crc="3937505743" ref="educational-program"/>
+    <file name="download (2)-u3060-fr.jpg" crc="4275331565" ref="educational-program"/>
+    <file name="u3078-144.png" crc="313232428" ref="educational-program"/>
+    <file name="download (1)-u3104-fr.jpg" crc="385703117" ref="educational-program"/>
+    <file name="u3116-134.png" crc="4125204804" ref="educational-program"/>
+    <file name="the_logo_of_rajshahi_collegiate_school-u3135-fr.jpg" crc="408090747" ref="educational-program"/>
+    <file name="u3147-134.png" crc="133172774" ref="educational-program"/>
+    <file name="u3171-44.png" crc="4086855602" ref="educational-program"/>
+    <file name="u3183-44.png" crc="3956815725" ref="educational-program"/>
+    <file name="u16741-4.png" crc="448693263" ref="youth-development-program"/>
+    <file name="received_201452947856259-u16736-fr.jpg" crc="3946359537" ref="youth-development-program"/>
+    <file name="u16734-12.png" crc="154320062" ref="youth-development-program"/>
+    <file name="104390822_651123022280238_268464572460970335_n-u16732-fr.jpg" crc="4103024733" ref="youth-development-program"/>
+    <file name="u16738-14.png" crc="291656482" ref="youth-development-program"/>
+    <file name="images.jpg" crc="4030318397" ref="youth-development-program">
+      <caption webpage="youth-development-program" alt=""/>
+    </file>
+    <file name="u16737-14.png" crc="474225411" ref="youth-development-program"/>
+    <file name="make-a-line-follower-robot-using-l293d-motor-driver-module-u17178-fr.jpg" crc="3811883011" ref="youth-development-program"/>
+    <file name="u17179-13.png" crc="3913958671" ref="youth-development-program"/>
+    <file name="whatsapp image 2020-01-26 at 60057 pm.jpg" crc="3913863091" ref="youth-development-program">
+      <caption webpage="youth-development-program" alt=""/>
+      <caption webpage="youth-development-program" alt=""/>
+      <caption webpage="youth-development-program" alt=""/>
+    </file>
+    <file name="u17208-14.png" crc="4214736465" ref="youth-development-program"/>
+    <file name="download3.jpg" crc="328545851" ref="youth-development-program">
+      <caption webpage="youth-development-program" alt=""/>
+    </file>
+    <file name="u17237-14.png" crc="238063708" ref="youth-development-program"/>
+    <file name="u16731-4.png" crc="33559087" ref="youth-development-program"/>
+    <file name="u16739-4.png" crc="4099363825" ref="youth-development-program"/>
+    <file name="u16741-42.png" crc="299736466" ref="youth-development-program"/>
+    <file name="received_201452947856259-u16736-fr2.jpg" crc="184389912" ref="youth-development-program"/>
+    <file name="u16734-122.png" crc="97450138" ref="youth-development-program"/>
+    <file name="104390822_651123022280238_268464572460970335_n-u16732-fr2.jpg" crc="480848394" ref="youth-development-program"/>
+    <file name="u16738-142.png" crc="4120080740" ref="youth-development-program"/>
+    <file name="u16737-142.png" crc="375544300" ref="youth-development-program"/>
+    <file name="make-a-line-follower-robot-using-l293d-motor-driver-module-u17178-fr2.jpg" crc="4248860142" ref="youth-development-program"/>
+    <file name="u17179-132.png" crc="3900228043" ref="youth-development-program"/>
+    <file name="u17208-142.png" crc="127794316" ref="youth-development-program"/>
+    <file name="u16731-42.png" crc="4207752301" ref="youth-development-program"/>
+    <file name="u16739-42.png" crc="420057710" ref="youth-development-program"/>
+    <file name="u17237-142.png" crc="4197846215" ref="youth-development-program"/>
+    <file name="u16741-43.png" crc="139330464" ref="youth-development-program"/>
+    <file name="received_201452947856259-u16736-fr3.jpg" crc="142768223" ref="youth-development-program"/>
+    <file name="u16734-123.png" crc="3885306140" ref="youth-development-program"/>
+    <file name="104390822_651123022280238_268464572460970335_n-u16732-fr3.jpg" crc="531685531" ref="youth-development-program"/>
+    <file name="u16738-143.png" crc="451972640" ref="youth-development-program"/>
+    <file name="u16737-143.png" crc="438791413" ref="youth-development-program"/>
+    <file name="make-a-line-follower-robot-using-l293d-motor-driver-module-u17178-fr3.jpg" crc="3950335265" ref="youth-development-program"/>
+    <file name="u17179-133.png" crc="385450532" ref="youth-development-program"/>
+    <file name="whatsapp image 2020-01-26 at 60057 pm-u17207-fr.jpg" crc="3951294498" ref="youth-development-program"/>
+    <file name="u17208-143.png" crc="250643515" ref="youth-development-program"/>
+    <file name="u17237-143.png" crc="133211078" ref="youth-development-program"/>
+    <file name="u16731-43.png" crc="3928320565" ref="youth-development-program"/>
+    <file name="u16739-43.png" crc="493582862" ref="youth-development-program"/>
+    <file name="u16741-44.png" crc="4294210220" ref="youth-development-program"/>
+    <file name="received_201452947856259-u16736-fr4.jpg" crc="3860674430" ref="youth-development-program"/>
+    <file name="u16734-124.png" crc="96280703" ref="youth-development-program"/>
+    <file name="104390822_651123022280238_268464572460970335_n-u16732-fr4.jpg" crc="4262537071" ref="youth-development-program"/>
+    <file name="u16738-144.png" crc="3951361466" ref="youth-development-program"/>
+    <file name="u16737-144.png" crc="3827779767" ref="youth-development-program"/>
+    <file name="make-a-line-follower-robot-using-l293d-motor-driver-module-u17178-fr4.jpg" crc="4043027591" ref="youth-development-program"/>
+    <file name="u17179-134.png" crc="3925665143" ref="youth-development-program"/>
+    <file name="u17208-144.png" crc="4267893610" ref="youth-development-program"/>
+    <file name="u17237-144.png" crc="3856012920" ref="youth-development-program"/>
+    <file name="u16731-44.png" crc="4216098659" ref="youth-development-program"/>
+    <file name="u16739-44.png" crc="277858387" ref="youth-development-program"/>
+    <file name="photo-1576080343415-2ee7b4fc4764.jpg" crc="3811434472" ref="donate:mission---vission:our-approach:faq:our-program">
+      <caption webpage="donate" alt=""/>
+    </file>
+    <file name="u28391-5.png" crc="3955819720" ref="donate"/>
+    <file name="u28394-5.png" crc="3821291222" ref="donate"/>
+    <file name="u28391-52.png" crc="164843942" ref="donate"/>
+    <file name="u28394-52.png" crc="3863310759" ref="donate"/>
+    <file name="u28391-53.png" crc="3995646396" ref="donate"/>
+    <file name="u28394-53.png" crc="4030391904" ref="donate"/>
+    <file name="photo-1576080343415-2ee7b4fc4764-u28388-fr.jpg" crc="380588120" ref="donate:mission---vission:our-approach:faq:our-program"/>
+    <file name="u28394-54.png" crc="3843097728" ref="donate"/>
+    <file name="u28391-54.png" crc="3813198973" ref="donate"/>
+    <file name="u30373-5.png" crc="3955819720" ref="mission---vission"/>
+    <file name="u30376-5.png" crc="3821291222" ref="mission---vission"/>
+    <file name="u30373-52.png" crc="164843942" ref="mission---vission"/>
+    <file name="u30376-52.png" crc="3863310759" ref="mission---vission"/>
+    <file name="u30373-53.png" crc="3995646396" ref="mission---vission"/>
+    <file name="u30376-53.png" crc="4030391904" ref="mission---vission"/>
+    <file name="u30376-54.png" crc="3843097728" ref="mission---vission"/>
+    <file name="u30373-54.png" crc="3813198973" ref="mission---vission"/>
+    <file name="u32205-5.png" crc="3955819720" ref="our-approach"/>
+    <file name="u32207-5.png" crc="3821291222" ref="our-approach"/>
+    <file name="u32205-52.png" crc="164843942" ref="our-approach"/>
+    <file name="u32207-52.png" crc="3863310759" ref="our-approach"/>
+    <file name="u32205-53.png" crc="3995646396" ref="our-approach"/>
+    <file name="u32207-53.png" crc="4030391904" ref="our-approach"/>
+    <file name="u32207-54.png" crc="3843097728" ref="our-approach"/>
+    <file name="u32205-54.png" crc="3813198973" ref="our-approach"/>
+    <file name="u33471-5.png" crc="3955819720" ref="faq"/>
+    <file name="u33391-5.png" crc="3821291222" ref="faq"/>
+    <file name="u33471-52.png" crc="164843942" ref="faq"/>
+    <file name="u33391-52.png" crc="3863310759" ref="faq"/>
+    <file name="u33471-53.png" crc="3995646396" ref="faq"/>
+    <file name="u33391-53.png" crc="4030391904" ref="faq"/>
+    <file name="u33391-54.png" crc="3843097728" ref="faq"/>
+    <file name="u33471-54.png" crc="3813198973" ref="faq"/>
+    <file name="80391312_3052776351453667_6098340247303618560_o.jpg" crc="3947479305" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="ismail.jpg" crc="316261277" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="120730298_7839748939444956_6692703111701937656_n.jpg" crc="372637729" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u38548-8.png" crc="423728943" ref="our-team"/>
+    <file name="u41076-10.png" crc="3960742335" ref="our-team"/>
+    <file name="u41214-10.png" crc="485098432" ref="our-team"/>
+    <file name="120851179_4061627343863875_6001430735555302405_n-u41309-fr.jpg" crc="529292492" ref="our-team"/>
+    <file name="120830798_664931667742371_2889837185898449219_n-u41311-fr.jpg" crc="3890287678" ref="our-team"/>
+    <file name="img_20191120_100852-01 - fariha noor.jpg" crc="311124652" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41308-8.png" crc="247050642" ref="our-team"/>
+    <file name="u41310-9.png" crc="132400311" ref="our-team"/>
+    <file name="u41312-9.png" crc="4291214140" ref="our-team"/>
+    <file name="20 - rifat zahid-u41406-fr.jpg" crc="4027561327" ref="our-team"/>
+    <file name="120849078_1664045683756668_5567193030122144054_n-u41408-fr.jpg" crc="4198758985" ref="our-team"/>
+    <file name="dsc_3824 - copy - siam alam-u41410-fr.jpg" crc="438016733" ref="our-team"/>
+    <file name="u41405-9.png" crc="4145673600" ref="our-team"/>
+    <file name="u41407-9.png" crc="231656307" ref="our-team"/>
+    <file name="u41409-9.png" crc="3847113672" ref="our-team"/>
+    <file name="120997276_773412806568179_507342098172358888_n-u41412-fr.jpg" crc="294877520" ref="our-team"/>
+    <file name="120462704_2802947170026388_5963202243499891254_n-u41414-fr.jpg" crc="178840986" ref="our-team"/>
+    <file name="16700542_1186041494827752_372331464372211841_o-u41593-fr.jpg" crc="3905845496" ref="our-team"/>
+    <file name="u41411-8.png" crc="4049771311" ref="our-team"/>
+    <file name="u41413-8.png" crc="340698589" ref="our-team"/>
+    <file name="u41592-8.png" crc="128312267" ref="our-team"/>
+    <file name="120885275_638702116821585_3934025108510119418_n-u41589-fr.jpg" crc="200553855" ref="our-team"/>
+    <file name="120260072_792422034855005_8442656629866711627_n-u41416-fr.jpg" crc="379819476" ref="our-team"/>
+    <file name="120849290_424465635210597_1736165872651704830_n-u41591-fr.jpg" crc="261419066" ref="our-team"/>
+    <file name="u41588-10.png" crc="505009231" ref="our-team"/>
+    <file name="u41415-10.png" crc="4189654496" ref="our-team"/>
+    <file name="u41590-10.png" crc="3914175542" ref="our-team"/>
+    <file name="119443199_349423412906121_4036530639919156202_n.jpg" crc="3862859668" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="img_20200725_213042 - nur afsa-u41654-fr.jpg" crc="3858994984" ref="our-team"/>
+    <file name="120668151_5093509110675245_4646035745941901450_n-u41656-fr.jpg" crc="4288236638" ref="our-team"/>
+    <file name="u41651-10.png" crc="4089596364" ref="our-team"/>
+    <file name="u41653-10.png" crc="121081542" ref="our-team"/>
+    <file name="u41655-9.png" crc="3872205339" ref="our-team"/>
+    <file name="121048706_345641993392292_2787602275073067091_n.jpg" crc="4081075018" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="120738163_1002383230203803_2243897037033381567_n-u41761-fr.jpg" crc="436772365" ref="our-team"/>
+    <file name="u41758-10.png" crc="4036715500" ref="our-team"/>
+    <file name="u41760-9.png" crc="3998562180" ref="our-team"/>
+    <file name="-880 1791-711226 20200327_234001 - mohit uzzaman-u41818-fr.jpg" crc="198255708" ref="our-team"/>
+    <file name="img_20190415_222504_192 - jahida jahan-u41820-fr.jpg" crc="4164026594" ref="our-team"/>
+    <file name="120656276_3368591316553670_5943892051960374778_n-u41822-fr.jpg" crc="289436130" ref="our-team"/>
+    <file name="u41817-8.png" crc="3800545889" ref="our-team"/>
+    <file name="u41819-8.png" crc="3786221193" ref="our-team"/>
+    <file name="u41821-8.png" crc="4074439949" ref="our-team"/>
+    <file name="u41898-8.png" crc="3800545889" ref="our-team"/>
+    <file name="u41900-8.png" crc="3786221193" ref="our-team"/>
+    <file name="u41902-9.png" crc="3992905648" ref="our-team"/>
+    <file name="80391312_3052776351453667_6098340247303618560_o-u41058-fr.jpg" crc="4204758479" ref="our-team"/>
+    <file name="ismail-u41077-fr.jpg" crc="341525188" ref="our-team"/>
+    <file name="u38548-82.png" crc="74782542" ref="our-team"/>
+    <file name="u41076-102.png" crc="4176414188" ref="our-team"/>
+    <file name="u41214-102.png" crc="4273649412" ref="our-team"/>
+    <file name="120851179_4061627343863875_6001430735555302405_n-u41309-fr2.jpg" crc="212201946" ref="our-team"/>
+    <file name="120830798_664931667742371_2889837185898449219_n-u41311-fr2.jpg" crc="261447427" ref="our-team"/>
+    <file name="u41308-82.png" crc="298356139" ref="our-team"/>
+    <file name="u41310-92.png" crc="3942993461" ref="our-team"/>
+    <file name="u41312-92.png" crc="4095346005" ref="our-team"/>
+    <file name="20 - rifat zahid-u41406-fr2.jpg" crc="404138524" ref="our-team"/>
+    <file name="dsc_3824 - copy - siam alam-u41410-fr2.jpg" crc="4101826028" ref="our-team"/>
+    <file name="u41405-92.png" crc="337939451" ref="our-team"/>
+    <file name="u41407-92.png" crc="318267517" ref="our-team"/>
+    <file name="u41409-92.png" crc="363772673" ref="our-team"/>
+    <file name="120462704_2802947170026388_5963202243499891254_n-u41414-fr2.jpg" crc="3794752240" ref="our-team"/>
+    <file name="16700542_1186041494827752_372331464372211841_o-u41593-fr2.jpg" crc="211675719" ref="our-team"/>
+    <file name="u41411-82.png" crc="333813024" ref="our-team"/>
+    <file name="u41413-82.png" crc="348397525" ref="our-team"/>
+    <file name="u41592-82.png" crc="3907088600" ref="our-team"/>
+    <file name="120885275_638702116821585_3934025108510119418_n-u41589-fr2.jpg" crc="313390795" ref="our-team"/>
+    <file name="120260072_792422034855005_8442656629866711627_n-u41416-fr2.jpg" crc="3956420659" ref="our-team"/>
+    <file name="120849290_424465635210597_1736165872651704830_n-u41591-fr2.jpg" crc="258914449" ref="our-team"/>
+    <file name="u41588-102.png" crc="486178801" ref="our-team"/>
+    <file name="u41415-102.png" crc="3759484052" ref="our-team"/>
+    <file name="u41590-102.png" crc="4061602323" ref="our-team"/>
+    <file name="img_20200725_213042 - nur afsa-u41654-fr2.jpg" crc="4244995593" ref="our-team"/>
+    <file name="120668151_5093509110675245_4646035745941901450_n-u41656-fr2.jpg" crc="327198490" ref="our-team"/>
+    <file name="u41651-102.png" crc="47447022" ref="our-team"/>
+    <file name="u41653-102.png" crc="463548635" ref="our-team"/>
+    <file name="u41655-92.png" crc="116953846" ref="our-team"/>
+    <file name="120738163_1002383230203803_2243897037033381567_n-u41761-fr2.jpg" crc="126219358" ref="our-team"/>
+    <file name="u41758-102.png" crc="4124032330" ref="our-team"/>
+    <file name="u41760-92.png" crc="349552379" ref="our-team"/>
+    <file name="-880 1791-711226 20200327_234001 - mohit uzzaman-u41818-fr2.jpg" crc="4171419216" ref="our-team"/>
+    <file name="img_20190415_222504_192 - jahida jahan-u41820-fr2.jpg" crc="168673928" ref="our-team"/>
+    <file name="120656276_3368591316553670_5943892051960374778_n-u41822-fr2.jpg" crc="457072378" ref="our-team"/>
+    <file name="u41817-82.png" crc="4087716711" ref="our-team"/>
+    <file name="u41819-82.png" crc="167060909" ref="our-team"/>
+    <file name="u41821-82.png" crc="3835226092" ref="our-team"/>
+    <file name="u41898-82.png" crc="4087716711" ref="our-team"/>
+    <file name="u41900-82.png" crc="167060909" ref="our-team"/>
+    <file name="u41902-92.png" crc="339623138" ref="our-team"/>
+    <file name="u38548-83.png" crc="410139751" ref="our-team"/>
+    <file name="u41076-103.png" crc="180914516" ref="our-team"/>
+    <file name="120851179_4061627343863875_6001430735555302405_n.jpg" crc="4061364854" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41214-103.png" crc="3980408605" ref="our-team"/>
+    <file name="u41308-83.png" crc="315103268" ref="our-team"/>
+    <file name="120830798_664931667742371_2889837185898449219_n-u41311-fr3.jpg" crc="4218080855" ref="our-team"/>
+    <file name="u41310-93.png" crc="252423825" ref="our-team"/>
+    <file name="u41312-93.png" crc="4200566172" ref="our-team"/>
+    <file name="20 - rifat zahid.jpg" crc="144969875" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="120849078_1664045683756668_5567193030122144054_n.jpg" crc="4038304780" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41405-93.png" crc="3881585069" ref="our-team"/>
+    <file name="u41407-93.png" crc="419573299" ref="our-team"/>
+    <file name="120997276_773412806568179_507342098172358888_n.jpg" crc="451133721" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="120462704_2802947170026388_5963202243499891254_n.jpg" crc="273612229" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41411-83.png" crc="325484189" ref="our-team"/>
+    <file name="u41413-83.png" crc="4054745358" ref="our-team"/>
+    <file name="16700542_1186041494827752_372331464372211841_o.jpg" crc="4253369033" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="dsc_3824 - copy - siam alam.jpg" crc="3851256972" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41592-83.png" crc="47522539" ref="our-team"/>
+    <file name="u41409-93.png" crc="246051429" ref="our-team"/>
+    <file name="120849290_424465635210597_1736165872651704830_n.jpg" crc="448756519" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="120885275_638702116821585_3934025108510119418_n-u41589-fr3.jpg" crc="4216527512" ref="our-team"/>
+    <file name="u41590-103.png" crc="457742455" ref="our-team"/>
+    <file name="u41588-103.png" crc="3999110763" ref="our-team"/>
+    <file name="120260072_792422034855005_8442656629866711627_n.jpg" crc="118969431" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41415-103.png" crc="135122310" ref="our-team"/>
+    <file name="img_20200725_213042 - nur afsa.jpg" crc="495588273" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41651-103.png" crc="158401624" ref="our-team"/>
+    <file name="u41653-103.png" crc="397233829" ref="our-team"/>
+    <file name="120738163_1002383230203803_2243897037033381567_n.jpg" crc="514855638" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41758-103.png" crc="4158700944" ref="our-team"/>
+    <file name="u41760-93.png" crc="3774766098" ref="our-team"/>
+    <file name="120668151_5093509110675245_4646035745941901450_n-u41656-fr3.jpg" crc="131754029" ref="our-team"/>
+    <file name="u41655-93.png" crc="285526726" ref="our-team"/>
+    <file name="-880 1791-711226 20200327_234001 - mohit uzzaman.jpg" crc="4160112719" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="img_20190415_222504_192 - jahida jahan-u41820-fr3.jpg" crc="4188274114" ref="our-team"/>
+    <file name="u41817-83.png" crc="474615621" ref="our-team"/>
+    <file name="u41819-83.png" crc="4186598552" ref="our-team"/>
+    <file name="120656276_3368591316553670_5943892051960374778_n.jpg" crc="270665427" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41898-83.png" crc="4080743155" ref="our-team"/>
+    <file name="u41821-83.png" crc="323796004" ref="our-team"/>
+    <file name="img_20190415_222504_192 - jahida jahan-u41901-fr.jpg" crc="105315236" ref="our-team"/>
+    <file name="120656276_3368591316553670_5943892051960374778_n-u41903-fr.jpg" crc="351585150" ref="our-team"/>
+    <file name="u41900-83.png" crc="4016556183" ref="our-team"/>
+    <file name="u41902-93.png" crc="3803791651" ref="our-team"/>
+    <file name="u38548-84.png" crc="446283882" ref="our-team"/>
+    <file name="u41076-104.png" crc="304856909" ref="our-team"/>
+    <file name="u41214-104.png" crc="436645946" ref="our-team"/>
+    <file name="u41308-84.png" crc="262805478" ref="our-team"/>
+    <file name="120830798_664931667742371_2889837185898449219_n.jpg" crc="6480173" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41310-94.png" crc="3810842137" ref="our-team"/>
+    <file name="u41312-94.png" crc="142575053" ref="our-team"/>
+    <file name="u41405-94.png" crc="431817589" ref="our-team"/>
+    <file name="u41407-94.png" crc="4182965878" ref="our-team"/>
+    <file name="u41411-84.png" crc="3828633959" ref="our-team"/>
+    <file name="u41413-84.png" crc="46106438" ref="our-team"/>
+    <file name="u41409-94.png" crc="353405528" ref="our-team"/>
+    <file name="u41592-84.png" crc="291084746" ref="our-team"/>
+    <file name="u41590-104.png" crc="6568834" ref="our-team"/>
+    <file name="120885275_638702116821585_3934025108510119418_n.jpg" crc="3841680169" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41588-104.png" crc="4213971762" ref="our-team"/>
+    <file name="u41415-104.png" crc="210027238" ref="our-team"/>
+    <file name="u41651-104.png" crc="4179176816" ref="our-team"/>
+    <file name="u41653-104.png" crc="4112108116" ref="our-team"/>
+    <file name="u41758-104.png" crc="3988651660" ref="our-team"/>
+    <file name="u41760-94.png" crc="4236628718" ref="our-team"/>
+    <file name="120668151_5093509110675245_4646035745941901450_n.jpg" crc="4222889205" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41655-94.png" crc="284784032" ref="our-team"/>
+    <file name="u41817-84.png" crc="442083645" ref="our-team"/>
+    <file name="img_20190415_222504_192 - jahida jahan.jpg" crc="3977438945" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u41819-84.png" crc="3852866564" ref="our-team"/>
+    <file name="u41902-94.png" crc="211680497" ref="our-team"/>
+    <file name="u41821-84.png" crc="455869688" ref="our-team"/>
+    <file name="u41898-84.png" crc="3800545889" ref="our-team"/>
+    <file name="u41900-84.png" crc="237339342" ref="our-team"/>
+    <file name="u39160-5.png" crc="3955819720" ref="our-program"/>
+    <file name="u39066-5.png" crc="3821291222" ref="our-program"/>
+    <file name="u39160-52.png" crc="164843942" ref="our-program"/>
+    <file name="u39066-52.png" crc="3863310759" ref="our-program"/>
+    <file name="u39160-53.png" crc="3995646396" ref="our-program"/>
+    <file name="u39066-53.png" crc="4030391904" ref="our-program"/>
+    <file name="u39066-54.png" crc="3843097728" ref="our-program"/>
+    <file name="u39160-54.png" crc="3813198973" ref="our-program"/>
+  </folder>
+  <file name="index.html" crc="325421138" seo="true" mt="1601920907375" redirect="true"/>
+  <file name="program.html" crc="202701190" seo="true" mt="1601920907368" redirect="true"/>
+  <file name="about-us.html" crc="4114003390" seo="true" mt="1601986182555" redirect="true"/>
+  <file name="gallery.html" crc="340871640" seo="true" mt="1601920907374" redirect="true"/>
+  <file name="contact.html" crc="4069963163" seo="true" mt="1601920907387" redirect="true"/>
+  <file name="educational-program.html" crc="3782187194" seo="true" mt="1601920907360" redirect="true"/>
+  <file name="youth-development-program.html" crc="3933597081" seo="true" mt="1601920907360" redirect="true"/>
+  <file name="donate.html" crc="430519674" seo="true" mt="1601920907366" redirect="true"/>
+  <file name="mission---vission.html" crc="274090563" seo="true" mt="1601920907378" redirect="true"/>
+  <file name="our-approach.html" crc="311744336" seo="true" mt="1601920907370" redirect="true"/>
+  <file name="faq.html" crc="535860996" seo="true" mt="1601920907360" redirect="true"/>
+  <file name="our-team.html" crc="3927612592" seo="true" mt="1601986096976" redirect="true"/>
+  <file name="our-program.html" crc="351082382" seo="true" mt="1601920907391" redirect="true"/>
+</manifest>
