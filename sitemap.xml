@@ -2,79 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://zero.com/index.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://zero.com/images/20200514_173738-crop-u43786.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/received_576649863251997-crop-u42781.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_20200904_185223-crop-u43597.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_4698-crop-u43660.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/20200603181540_img_3630-crop-u43723.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/20200514_173738-crop-u437862.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/received_576649863251997-crop-u427812.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_20200904_185223-crop-u435972.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_4698-crop-u436602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/20200603181540_img_3630-crop-u437232.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/20200514_173738-crop-u437863.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/received_576649863251997-crop-u427813.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_20200904_185223-crop-u435973.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_4698-crop-u436603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/20200603181540_img_3630-crop-u437233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/20200514_173738-crop-u437864.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/received_576649863251997-crop-u427814.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_20200904_185223-crop-u435974.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/img_4698-crop-u436604.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/20200603181540_img_3630-crop-u437234.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://zero.com/program.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zero.com/about-us.html</loc>
-    <lastmod>2020-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zero.com/gallery.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zero.com/contact.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://zero.com/images/location.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/phone22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/mail-crop-u44997.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/mail-crop-u449972.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/mail-crop-u449973.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zero.com/images/mail-crop-u449974.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://zero.com/educational-program.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zero.com/youth-development-program.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zero.com/donate.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zero.com/mission---vission.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zero.com/our-approach.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zero.com/faq.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zero.com/our-team.html</loc>
-    <lastmod>2020-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zero.com/our-program.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <loc>http://zero.com/zero-team.html</loc>
+    <lastmod>2020-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

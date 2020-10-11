@@ -1,2 +1,0 @@
-# teamzero
-a website
